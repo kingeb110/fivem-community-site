@@ -12,7 +12,7 @@
 // Main site settings //
 
 //your website's URL
-$domain = "https://products.kingeb110.com/free-encrypted/"; // keep the / at the end of the link
+$domain = "https://products.kingeb110.com/free-release/"; // keep the / at the end of the link
 
 //Your community name. Ex. Rapid Roleplay
 $cname = "Community Name"; 
