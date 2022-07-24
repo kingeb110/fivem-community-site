@@ -28,5 +28,5 @@ Well this is for you.
 
 ## Documentation
 
-
+Open the config.php file and change everything to your liking!
 
