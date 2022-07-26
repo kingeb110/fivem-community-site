@@ -9,7 +9,7 @@ Well this is for you.
 
 
 ## Features
-#### Demo: https://products.kingeb110.com/free-release/
+#### Demo: https://products.unifiedmodifications.com/free-release/
 
  - Live in game member count
  - Gallery
@@ -22,9 +22,9 @@ Well this is for you.
 
 ## Made by
 
-- [@kingeb110development](https://discord.gg/XZPsrNpzsW)
+- [@unifiedmodifications](https://discord.gg/XZPsrNpzsW)
  JOIN !!! https://discord.gg/XZPsrNpzsW
- - Store: https://kingeb110.com/store
+ - Store: https://unifiedmodifications.com/store
  
 
 ## Documentation
